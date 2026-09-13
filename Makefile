@@ -72,6 +72,7 @@ ifeq ($(MSYSTEM),MSYS)
 endif
 
 // going to add msvc
+// windows native api(s)
 
 V :=
 ECHO_PREFIX := @
